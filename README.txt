@@ -13,7 +13,7 @@ CONTENTS
 INTRODUCTION
 ------------
 Our tracker takes as input 2 segmented point clouds and combines 3D shape, color (when available), and motion cues to accurately estimate the velocity of each object in real-time.  For more information, see our project page:
-http://stanford.edu/~davheld/anytime_tracking.html
+http://davheld.github.io/anytime_tracking.html
 
 REQUIREMENTS
 ------------
